@@ -1,3 +1,7 @@
-{"METADATA_URL":"https://raw.githubusercontent.com/alexispetalas/alfa/master/README.json",
-  "PETA": "SI"
+{
+  "METADATA_URL":"https://raw.githubusercontent.com/alexispetalas/alfa/master/README.json",
+  "VERSION"="latest",
+  "IMAGE"="mercadolibre/fury-localapi",
+  "HOSTNAME"="ip-10-10-184-134",
+  "ENV_FILE"="/root/user-data.sh"
 }
